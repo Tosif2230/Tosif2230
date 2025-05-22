@@ -10,7 +10,7 @@ Passionate about coding, problem-solving, and building real-world applications.
 - Problem-solving and Algorithmic Thinking
 
 ## 📂 Projects
-- **Calculator** - Basic console calculator for arithmetic operations  
+- **Game** - Snake,water,gun game.  
 - **Money Distribution Calculator** - Split expenses among friends/groups  
 - **Treasure Hunt Game** - Text-based adventure game using Python
 
