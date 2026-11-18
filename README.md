@@ -1,133 +1,210 @@
+
 <h1 align="center">Hi 👋, I'm Mohammed Tosif</h1>
-<h3 align="center">🚀 Full-Stack Developer (MERN) | Problem Solver | Continuous Learner</h3>
+
+<h3 align="center">
+  Frontend Developer (React.js) | Aspiring MERN Stack Developer 🚀
+</h3>
 
 <p align="center">
-  Passionate about building scalable, user-centric web applications and growing as a modern full-stack engineer.
+  Building responsive web applications, exploring full-stack development,
+  and continuously improving my problem-solving skills.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Tosif2230">
+    <img src="https://komarev.com/ghpvc/?username=Tosif2230&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🚀 **Full-Stack Developer (MERN)** with strong fundamentals in frontend & backend  
-- 🎯 Currently focused on **production-grade MERN applications**
-- 💼 Bringing **5.11 years of non-IT professional experience**, strong work ethics & ownership mindset  
-- 🛠️ Building real-world projects to strengthen **logic, architecture & performance**
-- 🌱 Exploring **Next.js, Server Actions, Tailwind CSS & system design basics**
-- 🤝 Open to **internship / junior developer roles / open-source contributions**
-- ⚡ Fun fact: Debugging feels like solving puzzles I *can’t quit* 😄
+- 💼 Frontend Developer intern at **Wrathcode Technology Pvt. Ltd.**
+- 🚀 Almost **6 months of professional experience** in frontend development.
+- ⚛️ Experienced in building responsive interfaces using **React.js and Tailwind CSS**.
+- 🔗 Hands-on experience with REST API integration and backend communication.
+- 🌱 Expanding my expertise in **MERN Stack development**.
+- 🛠️ Currently working on **Quantum Ecosystem**, a crypto-based full-stack application.
+- 🔐 Exploring authentication, payment gateway integration, and backend architecture.
+- 🧠 Interested in Data Structures, Algorithms, clean code, and problem-solving.
+- 🤝 Open to connecting with developers and collaborating on interesting projects.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 🎨 Frontend
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
-</div>
+### 🎨 Frontend Development
 
-### 🧠 Backend & Database
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nextjs" />
+</p>
 
-### ☁️ Cloud & DevOps
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
-</div>
+- JavaScript (ES6+)
+- React.js
+- Redux
+- HTML5 & CSS3
+- Tailwind CSS
+- Responsive Web Design
+- Next.js
 
-### 🧩 Tools & Design
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40"/>
-</div>
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+- Node.js
+- Express.js
+- RESTful APIs
+- JWT Authentication
+- Backend Integration
+
+### 🗄️ Database & Authentication
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
+
+- MongoDB (Familiar)
+- Firebase
+- Auth0
+- Authentication & Authorization
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,ts,python" />
+</p>
+
+- Git & GitHub
+- VS Code
+- Thunder Client
+- TypeScript (Familiar)
+- Python (Familiar)
+- AI Coding Assistants (Claude, Codex)
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔹 **Portfolio Website**  
-  👉 Portfolio Website using ReactJS  
-  🔗 https://github.com/Tosif2230/Portfolio
+### 1. Quantum Ecosystem 🚀 (In Progress)
 
-- 🔹 **Capstone-MERN-YouTube-Clone**  
-  👉 Responsive YouTube-clone using MERN Stack (In Progress)  
-  🔗 https://github.com/Tosif2230/Capstone-MERN-YouTube-Clone
-  
-- 🔹 **ShoppyGlobe**  
-  👉 React E-commerce Application 
-  🔗 https://github.com/Tosif2230/ShoppyGlobe
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Auth0
 
-> 🔜 Currently working on **MERN-based full-stack projects** (Auth, APIs, dashboards)
+- Developing a full-stack cryptocurrency platform using the MERN stack.
+- Integrating Auth0 for secure user authentication and authorization.
+- Working on Razorpay payment gateway integration.
+- Developing RESTful APIs for user management and payment workflows.
+
+### 2. Social Media Platform (X-Inspired)
+
+**Tech Stack:** React.js, Next.js, Node.js, Express.js, MongoDB, Firebase, Razorpay
+
+- Built a full-stack social media application inspired by X (Twitter).
+- Implemented JWT authentication and REST API integration.
+- Integrated Firebase, audio uploads, and Razorpay subscription payments.
+- Explored multilingual support and real-time application features.
+
+### 3. MERN YouTube Clone
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+
+- Developed a YouTube-style video streaming application.
+- Implemented REST APIs and full-stack application workflows.
+- Worked on JWT authentication and role-based authorization.
+- Focused on secure session management.
+
+### 4. ShoppyGlobe – E-Commerce Application
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+
+- Developed a responsive e-commerce frontend using React.
+- Implemented product browsing and cart management.
+- Used React Router for navigation and application routing.
+- Focused on reusable components and user experience.
+
+### 5. Personal Portfolio Website
+
+**Tech Stack:** React.js, JavaScript, CSS
+
+- Created a responsive personal portfolio.
+- Showcases my skills, projects, and development journey.
+
+🔗 **Explore My Projects:** [GitHub Repositories](https://github.com/Tosif2230?tab=repositories)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tosif2230&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tosif2230&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tosif2230&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tosif2230&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tosif2230&theme=tokyonight&hide_border=true" height="165"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tosif2230&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 📈 Contribution Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tosif2230&theme=tokyo-night&hide_border=true"/>
-</div>
-
----
-
-## 🎯 Currently Focusing On
-
-- 🔐 Advanced authentication (JWT, role-based access, refresh tokens)
-- 🧠 Clean architecture & backend best practices
-- ⚛️ Modern React patterns & performance optimization
-- 🌍 Open-source collaboration
-
----
-
-## 📫 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-tosif/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tosif2230&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Currently Learning & Improving
+
+- ⚛️ Advanced React.js concepts and performance optimization.
+- 🔐 Authentication and authorization using JWT and Auth0.
+- ⚙️ Node.js and Express.js backend development.
+- 🗄️ MongoDB database design and operations.
+- 💳 Payment gateway integration using Razorpay.
+- 🏗️ MVC architecture and clean code practices.
+- 🧠 Data Structures and Algorithms.
+- 🌐 Building scalable full-stack MERN applications.
+
+---
+
+## 🎓 Education & Training
+
+**B.Tech – Engineering**  
+Rajasthan Technical University, Kota (2025)
+
+**Full Stack Development Certification**  
+Scholiverse Educare Pvt. Ltd. (July 2025 – January 2026)
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-tosif/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/TechieTosif" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+  <a href="https://x.com/TechieTosif">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="mailto:techie.tosif@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D82416?style=for-the-badge&logo=gmail"/>
+  <a href="mailto:mohammedtosif2210@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/Tosif2230/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-D14836?style=for-the-badge&logo=leetcode&logoColor=black)"/>
+  <a href="https://leetcode.com/u/Tosif2230/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://codeforces.com/profile/Tosi22" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <a href="https://codeforces.com/profile/Tosi22">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tosif2230&style=for-the-badge&color=blueviolet"/>
-</div>
+<p align="center">
+  <i>"Great software is built one problem, one solution, and one improvement at a time."</i>
+</p>
 
-<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
-<p align="center">⭐ If you like my work, consider starring my repositories</p>
+<h3 align="center">
+  ⭐ If you find my work interesting, consider starring my repositories!
+</h3>
